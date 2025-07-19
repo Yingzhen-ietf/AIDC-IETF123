@@ -11,7 +11,7 @@ Open
 
 2. 17:05 - 18:00  
 Costin Raiciu (Broadcom)
-**Ultra Ethernet Transport Overview**
+**Load balancing approaches in AI/ML networks**
 
 
 3. 18:00 - 19:00
