@@ -14,11 +14,11 @@ Costin Raiciu (Broadcom)
 **Load balancing approaches in AI/ML networks**
 
 
-3. 17:55 - 18:50
+3. 17:55 - 18:45
 Petr Lapukhov (Nvidia)
 **LLM Inference and Networking: Scale-up and Scale-out**
 
-4. 18:50 - 19:00
+4. 18:45 - 19:00
 **Q&A** 
 
 
