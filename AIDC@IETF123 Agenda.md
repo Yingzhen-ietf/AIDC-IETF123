@@ -1,0 +1,21 @@
+# AIDC@IETF123 Agenda
+
+Time: 17:00 - 19:00 Monday, July 21, 2025
+Location: El Escorial
+Chairs: Jeff Tantsura (jefftant.ietf@gmail.com) Yingzhen Qu (yingzhen.ietf@gmail.com)
+
+Join the meeting click on the link: https://ietf.webex.com/meet/ietfsidemeeting2
+
+1. 17:00
+Open
+
+2. 17:05 - 18:00  
+Costin Raiciu (Broadcom)
+**Ultra Ethernet Transport Overview**
+
+
+3. 18:00 - 19:00
+Petr Lapukhov (Nvidia)
+**LLM Inference and Networking: Scale-up and Scale-out**
+
+
