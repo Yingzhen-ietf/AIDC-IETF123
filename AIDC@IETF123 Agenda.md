@@ -10,13 +10,14 @@ Join the meeting click on the link: https://ietf.webex.com/meet/ietfsidemeeting2
 Open
 
 2. 17:05 - 17:55  
-Costin Raiciu (Broadcom)
-**Load balancing approaches in AI/ML networks**
+Petr Lapukhov (Nvidia)
+**LLM Inference and Networking: Scale-up and Scale-out**
 
 
 3. 17:55 - 18:45
-Petr Lapukhov (Nvidia)
-**LLM Inference and Networking: Scale-up and Scale-out**
+Costin Raiciu (Broadcom)
+**Load balancing approaches in AI/ML networks**
+
 
 4. 18:45 - 19:00
 **Q&A** 
